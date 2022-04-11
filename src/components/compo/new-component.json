@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_compo_new_components",
+  "info": {
+    "displayName": "newComponent",
+    "icon": "angry"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

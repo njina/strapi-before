@@ -15,6 +15,9 @@
     "content": {
       "type": "richtext",
       "default": "준비중입니다."
+    },
+    "title": {
+      "type": "string"
     }
   }
 }
