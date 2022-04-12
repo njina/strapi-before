@@ -4,7 +4,8 @@
   "info": {
     "singularName": "gallery",
     "pluralName": "galleries",
-    "displayName": "gallery"
+    "displayName": "gallery",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -17,18 +18,16 @@
     "title": {
       "type": "string"
     },
-    "date": {
-      "type": "date"
-    },
     "media": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
-      ],
-      "type": "media",
-      "multiple": true
+      ]
     }
   }
 }
