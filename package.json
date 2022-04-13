@@ -18,7 +18,6 @@
     "better-sqlite3": "^7.5.0",
     "pg": "^8.7.3",
     "pg-connection-string": "^2.5.0",
-    "strapi-plugin-menus": "^0.3.0",
     "strapi-plugin-wysiwsg-react-md-editor": "^4.1.0"
   },
   "author": {
