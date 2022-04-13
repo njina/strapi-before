@@ -13,10 +13,4 @@ module.exports = ({ env }) => ({
       },
     },
   },
-  // menus: {
-  //   enabled: true,
-  //   config: {
-  //     maxDepth: 3,
-  //   },
-  // },
 });
